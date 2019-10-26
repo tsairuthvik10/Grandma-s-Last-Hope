@@ -1,0 +1,6 @@
+Version Updates.
+
+15/02/2019 - v0.1
+- Initial release.
+- Added Movement & Combat animations.
+- Added Basic Animation Demo Scenes & Documentation.
